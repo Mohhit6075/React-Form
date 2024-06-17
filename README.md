@@ -1,1 +1,1 @@
-Site URL : https://react-form-green-gamma.vercel.app/
+Site URL : https://react-form-mine.netlify.app/
